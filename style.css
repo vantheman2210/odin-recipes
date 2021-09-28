@@ -1,0 +1,64 @@
+h1 { 
+  color:bisque; 
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 50px; 
+  font-weight: bold; 
+  text-align: center;
+  
+} 
+
+img {  
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+} 
+
+.links { 
+  text-align: center; 
+  color:rgb(236, 176, 97);
+} 
+
+html { 
+  background-color:chocolate;
+} 
+
+a:hover {
+  background-color: #ce826f;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  font-size: 14px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+} 
+
+/* Lasagna recipe css */
+
+.title { 
+  color:chartreuse; 
+  border: 2px solid black; 
+  text-align: center;
+} 
+
+.lemonadeTitle { 
+  color:limegreen;
+} 
+
+.lemonade { 
+  background-color: yellow;
+} 
+
+.description { 
+  background-color: limegreen; 
+  text-align: center;
+} 
+.steps { 
+  background-color: limegreen; 
+  text-align: center;
+} 
+.note { 
+  background-color: limegreen; 
+  text-align: center;
+}
